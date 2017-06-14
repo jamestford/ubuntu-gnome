@@ -9,4 +9,4 @@
 # GNU General Public License for more details.
 
 # Remove unecessary software
-sudo apt-get install git atom transmission variety
+sudo apt-get install git atom transmission variety vim
